@@ -7,12 +7,12 @@ In a tropical country like Bangladesh, overnight temperatures merely drop below 
 
 I have developed a smart Arduino-based temperature control system that is pretty cheap and easy to build.
 
-Disection:
+Dissection:
 1. Arduino UNO - 4$
 2. MAX31855 Module + K Type thermocouple temp Sensor combo - 4$
 3. 5V-1 channel relay interface board (AC250V/10A) - 1$
 4. 100W Clear GLS Bulb - 1$
-5. Any good USB Power bank - 10$
+5. USB Power bank - 10$
 6. Some wires - 1$
 
-Total Cost - 20$ (all parts are avaliable in aliexpress)
+Total Cost - 20$ (parts are avaliable in aliexpress)
