@@ -17,4 +17,4 @@ Dissection:
 
 Total Cost - 20$ (parts are avaliable in aliexpress)
 
-Before physical integration, the system is designed and simulated in Proteus. Below is a simplified version of the compononet sketch. The detailed .pdsprj file is also available on request if you're really into petting reptiles.
+Before physical integration, the system is designed and simulated in Proteus. The detailed .pdsprj file is also available on request if you're really into petting reptiles.
