@@ -16,5 +16,3 @@ Dissection:
 6. Some wires - 1$
 
 Total Cost - 20$ (parts are avaliable in aliexpress)
-
-Before physical integration, the system is designed and simulated in Proteus. The detailed .pdsprj file is also available on request if you're really into petting reptiles.
